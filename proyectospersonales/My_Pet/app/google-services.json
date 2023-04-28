@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588647526398",
+    "project_id": "loginforwhereismypet",
+    "storage_bucket": "loginforwhereismypet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588647526398:android:746f76de8f6d5a0b65daaf",
+        "android_client_info": {
+          "package_name": "com.example.mypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588647526398-pvc6lnr209t6pfqjufnhk50f4l02es36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypet",
+            "certificate_hash": "afac6f064c449571bb00e7d087629735a2324f9a"
+          }
+        },
+        {
+          "client_id": "588647526398-97modt4fissrp40fr9nlnrkvcskjopqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7nuk_VH2DkloY7e3WsoBO9dEdpkM2ak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588647526398-97modt4fissrp40fr9nlnrkvcskjopqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

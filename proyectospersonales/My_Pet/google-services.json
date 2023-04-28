@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754514618246",
+    "project_id": "where-s-my-pet-47d4d",
+    "storage_bucket": "where-s-my-pet-47d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754514618246:android:605f5f0ea3bf865c5fae07",
+        "android_client_info": {
+          "package_name": "com.example.petlocalizator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754514618246-sju0qhued2pn6but8h0p81tag3fga9hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6i6mApgjddGBxNA4F5fcjFCUanbbLJao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754514618246-sju0qhued2pn6but8h0p81tag3fga9hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
